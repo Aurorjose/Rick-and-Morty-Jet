@@ -4,6 +4,8 @@
 
 Para instalar la app, tendrás que acceder al directorio `example` y ejecutar `Flutter run`.
 
+Prueba realizada con la versión de Flutter `3.0.2`.
+
 # Clean architecture
 
 Esta prueba ha sido realizada siguiendo el método de desarrollo clean architecture:
