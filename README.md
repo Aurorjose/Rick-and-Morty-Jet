@@ -1,4 +1,4 @@
-# Rick and Morty - Jose Esteve Tendero | Prueba técnica de Jose Esteve para AllInBicking.
+# Rick and Morty | Prueba técnica para AllInBicking.
 
 # Cómo instalar
 
