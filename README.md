@@ -1,4 +1,4 @@
-# Rick and Morty | Prueba técnica para AllInBicking.
+# Rick and Morty | Ejemplo de código fuente
 
 # Cómo instalar
 
